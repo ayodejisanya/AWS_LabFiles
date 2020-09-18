@@ -1,0 +1,22 @@
+
+
+
+Site Reliability Engineer / DevOps Engineer (Java Docker AWS). World-leading investment management firm is seeking an 
+accomplished Site Reliability Engineer to take ownership of delivering automated solutions across the entire SDLC. 
+You could work with up to the minute technologies and make a direct, business-wide impact.
+The organisation is one of the largest asset managers in Europe and a major global investor, with assets under 
+management currently standing at £1.1tn.
+As a Site Reliability Engineer, you’ll manage CI/CD environments, using open source technologies such as Jenkins and SonarQube, 
+working closely with Infrastructure, Security and Development teams to promote the adoption of automation and support a streamlined 
+set of tools and processes. 
+From handling upgrades, plugins and control permissions to optimising builds and managing application development environments 
+– you’re work will be impactful, technical and diverse. 
+Requirements: 
+You have strong Java coding abilities, ideally from software development background
+You have a strong understanding of SDLC from developer’s perspective
+You have containerisation experience using Docker
+You have good working knowledge of the latest DevOps, CI/CD tooling and practices (Jenkins, Maven, Nexus, SonarQube)
+You have good knowledge of Linux and networking fundamentals and are familiar with AWS 
+As a Site Reliability Engineer you will earn a highly competitive salary (to £80k). Ability, performance and attitude will 
+be rewarded with a healthy benefits package, including generous pension contributions, 
+life assurance, a large holiday allowance, medical insurance, discounts and more. You’ll be based at offices in the heart of London. 

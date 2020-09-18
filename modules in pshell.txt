@@ -1,0 +1,4612 @@
+
+
+Name              : Microsoft.AAD.BrokerPlugin
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.AAD.BrokerPlugin_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.CloudExperienceHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.CloudExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.ShellExperienceHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.ShellExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : windows.immersivecontrolpanel
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.2.1000
+PackageFullName   : windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\ImmersiveControlPanel
+IsFramework       : False
+PackageFamilyName : windows.immersivecontrolpanel_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.ContentDeliveryManager
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.ContentDeliveryManager_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.7.25531.0
+PackageFullName   : Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 1.7.25531.0
+PackageFullName   : Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : InputApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : InputApp_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\InputApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : InputApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.XGpuEjectDialog
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.XGpuEjectDialog_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.SecureAssessmentBrowser
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.SecureAssessmentBrowser_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.XboxGameCallableUI
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.XboxGameCallableUI_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Windows.PrintDialog
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 6.2.1.0
+PackageFullName   : Windows.PrintDialog_6.2.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\PrintDialog
+IsFramework       : False
+PackageFamilyName : Windows.PrintDialog_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.SecHealthUI
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.SecHealthUI_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.PinningConfirmationDialog
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.PinningConfirmationDialog_1000.17763.1.0_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Windows.CBSPreview
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Windows.CBSPreview_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Windows.CBSPreview_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.PeopleExperienceHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.PeopleExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.ParentalControls
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.ParentalControls_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\ParentalControls_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.ParentalControls_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.OOBENetworkConnectionFlow
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.OOBENetworkConnectionFlow_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.OOBENetworkCaptivePortal
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.OOBENetworkCaptivePortal_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.NarratorQuickStart
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.NarratorQuickStart_10.0.17763.1_neutral_neutral_8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\microsoft.windows.narratorquickstart_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.CapturePicker
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.CapturePicker_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.AssignedAccessLockApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.AssignedAccessLockApp_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.Apprep.ChxApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.Apprep.ChxApp_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Win32WebViewHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Win32WebViewHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Win32WebViewHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Win32WebViewHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.PPIProjection
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.PPIProjection_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.PPIProjection_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.PPIProjection_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.AsyncTextService
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.AsyncTextService_10.0.17763.1_neutral__8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.AsyncTextService_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.BioEnrollment
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.BioEnrollment_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.BioEnrollment_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : 1527c705-839a-4832-9118-54d4Bd6a0c89
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : 1527c705-839a-4832-9118-54d4Bd6a0c89_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.FilePicker_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : 1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : c5e2524a-ea46-4f67-841f-6a9465d9d515
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : c5e2524a-ea46-4f67-841f-6a9465d9d515_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.FileExplorer_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : E2A4F912-2574-4A75-9BB0-0D023378592B
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : E2A4F912-2574-4A75-9BB0-0D023378592B_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.AccountsControl
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.AccountsControl_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.AccountsControl_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.CredDialogHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.CredDialogHost_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.CredDialogHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.ECApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.ECApp_10.0.17763.1_neutral__8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.ECApp_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ECApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.LockApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.LockApp_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.LockApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Wallet
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.2.18179.0
+PackageFullName   : Microsoft.Wallet_2.2.18179.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Wallet_2.2.18179.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Wallet_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.2.27328.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.2.27328.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Xbox.TCUI
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.24.10001.0
+PackageFullName   : Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Xbox.TCUI_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.0
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.1810.18004.0
+PackageFullName   : Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.0
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.1810.18004.0
+PackageFullName   : Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.7.27413.0
+PackageFullName   : Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 1.7.27413.0
+PackageFullName   : Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Messaging
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.1901.10241.1000
+PackageFullName   : Microsoft.Messaging_4.1901.10241.1000_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Messaging_4.1901.10241.1000_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Messaging_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Print3D
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.3.791.0
+PackageFullName   : Microsoft.Print3D_3.3.791.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Print3D_3.3.791.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Print3D_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.11906.6001.0
+PackageFullName   : Microsoft.UI.Xaml.2.1_2.11906.6001.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.1_2.11906.6001.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.11906.6001.0
+PackageFullName   : Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxSpeechToTextOverlay
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.21.13002.0
+PackageFullName   : Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WebMediaExtensions
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.20875.0
+PackageFullName   : Microsoft.WebMediaExtensions_1.0.20875.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WebMediaExtensions_1.0.20875.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WebMediaExtensions_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WebMediaExtensions_1.0.20875.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Advertising.Xaml
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1811.1.0
+PackageFullName   : Microsoft.Advertising.Xaml_10.1811.1.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Advertising.Xaml_10.1811.1.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Advertising.Xaml_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Advertising.Xaml
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 10.1811.1.0
+PackageFullName   : Microsoft.Advertising.Xaml_10.1811.1.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Advertising.Xaml_10.1811.1.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Advertising.Xaml_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Services.Store.Engagement
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.0.19011.0
+PackageFullName   : Microsoft.Services.Store.Engagement_10.0.19011.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Services.Store.Engagement_10.0.19011.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Services.Store.Engagement_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Services.Store.Engagement
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 10.0.19011.0
+PackageFullName   : Microsoft.Services.Store.Engagement_10.0.19011.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Services.Store.Engagement_10.0.19011.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Services.Store.Engagement_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftEdgeDevToolsClient
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.348.0
+PackageFullName   : Microsoft.MicrosoftEdgeDevToolsClient_1000.17763.348.0_neutral_neutral_8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.Cortana
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1.11.6.17763
+PackageFullName   : Microsoft.Windows.Cortana_1.11.6.17763_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Cortana_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.1.26424.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.1.26424.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.1.27427.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.1.27427.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MSPaint
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 6.1907.18017.0
+PackageFullName   : Microsoft.MSPaint_6.1907.18017.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MSPaint_6.1907.18017.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MSPaint_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Microsoft3DViewer
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 7.1908.9012.0
+PackageFullName   : Microsoft.Microsoft3DViewer_7.1908.9012.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Microsoft3DViewer_7.1908.9012.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Microsoft3DViewer_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.2.27912.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.2.27912.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.ScreenSketch
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1907.2471.0
+PackageFullName   : Microsoft.ScreenSketch_10.1907.2471.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ScreenSketch_10.1907.2471.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ScreenSketch_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.ScreenSketch_10.1907.2471.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.110.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 11.0.61135.0
+PackageFullName   : Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.110.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.110.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 11.0.61135.0
+PackageFullName   : Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.110.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.120.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 12.0.40653.0
+PackageFullName   : Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.120.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.120.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12.0.40653.0
+PackageFullName   : Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.120.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : 34791E63.CanonInkjetPrintUtility
+Publisher         : CN=41BAE105-1234-432C-A39C-1B7D1C24232B
+Architecture      : Neutral
+ResourceId        :
+Version           : 2.8.0.1
+PackageFullName   : 34791E63.CanonInkjetPrintUtility_2.8.0.1_neutral__6e5tt8cgb93ep
+InstallLocation   : C:\Program Files\WindowsApps\34791E63.CanonInkjetPrintUtility_2.8.0.1_neutral__6e5tt8cgb93ep
+IsFramework       : False
+PackageFamilyName : 34791E63.CanonInkjetPrintUtility_6e5tt8cgb93ep
+PublisherId       : 6e5tt8cgb93ep
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.21909.17002.0
+PackageFullName   : Microsoft.UI.Xaml.2.2_2.21909.17002.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.2_2.21909.17002.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.21909.17002.0
+PackageFullName   : Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VP9VideoExtensions
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.22681.0
+PackageFullName   : Microsoft.VP9VideoExtensions_1.0.22681.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VP9VideoExtensions_1.0.22681.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.VP9VideoExtensions_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.GetHelp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1909.22691.0
+PackageFullName   : Microsoft.GetHelp_10.1909.22691.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.GetHelp_10.1909.22691.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.GetHelp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.GetHelp_10.1909.22691.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsMaps
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 5.1909.2813.0
+PackageFullName   : Microsoft.WindowsMaps_5.1909.2813.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsMaps_5.1909.2813.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsMaps_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsMaps_5.1909.2813.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WebpImageExtension
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.22753.0
+PackageFullName   : Microsoft.WebpImageExtension_1.0.22753.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WebpImageExtension_1.0.22753.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WebpImageExtension_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.DesktopAppInstaller
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.32912.0
+PackageFullName   : Microsoft.DesktopAppInstaller_1.0.32912.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.0.32912.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.DesktopAppInstaller_1.0.32912.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Getstarted
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 8.2.22942.0
+PackageFullName   : Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Getstarted_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MixedReality.Portal
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2000.19101.1211.0
+PackageFullName   : Microsoft.MixedReality.Portal_2000.19101.1211.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MixedReality.Portal_2000.19101.1211.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MixedReality.Portal_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.MixedReality.Portal_2000.19101.1211.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxIdentityProvider
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12.58.1001.0
+PackageFullName   : Microsoft.XboxIdentityProvider_12.58.1001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.58.1001.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxIdentityProvider_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftEdge
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 44.17763.831.0
+PackageFullName   : Microsoft.MicrosoftEdge_44.17763.831.0_neutral__8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 48.59.13001.0
+PackageFullName   : Microsoft.XboxApp_48.59.13001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxApp_48.59.13001.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsCamera
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2019.926.20.0
+PackageFullName   : Microsoft.WindowsCamera_2019.926.20.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2019.926.20.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsCamera_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.OneConnect
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 5.1911.3171.0
+PackageFullName   : Microsoft.OneConnect_5.1911.3171.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.OneConnect_5.1911.3171.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.OneConnect_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.OneConnect_5.1911.3171.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsAlarms
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1910.3121.0
+PackageFullName   : Microsoft.WindowsAlarms_10.1910.3121.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_10.1910.3121.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsAlarms_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsAlarms_10.1910.3121.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsCalculator
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1910.0.0
+PackageFullName   : Microsoft.WindowsCalculator_10.1910.0.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1910.0.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsCalculator_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsCalculator_10.1910.0.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftSolitaireCollection
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.5.12061.0
+PackageFullName   : Microsoft.MicrosoftSolitaireCollection_4.5.12061.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.5.12061.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxGamingOverlay
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.36.6003.0
+PackageFullName   : Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.XboxGamingOverlay_3.36.6003.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsFeedbackHub
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.1907.3152.0
+PackageFullName   : Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.SkypeApp
+Publisher         : CN=Skype Software Sarl, O=Microsoft Corporation, L=Luxembourg, S=Luxembourg, C=LU
+Architecture      : X64
+ResourceId        :
+Version           : 14.55.131.0
+PackageFullName   : Microsoft.SkypeApp_14.55.131.0_x64__kzf8qxf38zg5c
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.55.131.0_x64__kzf8qxf38zg5c
+IsFramework       : False
+PackageFamilyName : Microsoft.SkypeApp_kzf8qxf38zg5c
+PublisherId       : kzf8qxf38zg5c
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.SkypeApp_14.55.131.0_neutral_split.scale-100_kzf8qxf38zg5c}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.BingWeather
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.34.13393.0
+PackageFullName   : Microsoft.BingWeather_4.34.13393.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.BingWeather_4.34.13393.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.BingWeather_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Windows.Photos
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2019.19081.22010.0
+PackageFullName   : Microsoft.Windows.Photos_2019.19081.22010.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19081.22010.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Photos_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.Photos.MediaEngineDLC_1.0.0.0_x64__8wekyb3d8bbwe,
+                    Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftPowerBIDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.76.5682.0
+PackageFullName   : Microsoft.MicrosoftPowerBIDesktop_2.76.5682.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftPowerBIDesktop_2.76.5682.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftPowerBIDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftStickyNotes
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.7.106.0
+PackageFullName   : Microsoft.MicrosoftStickyNotes_3.7.106.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.7.106.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.MicrosoftStickyNotes_3.7.106.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.HEIFImageExtension
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.23292.0
+PackageFullName   : Microsoft.HEIFImageExtension_1.0.23292.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.HEIFImageExtension_1.0.23292.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.HEIFImageExtension_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxGameOverlay
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.49.24004.0
+PackageFullName   : Microsoft.XboxGameOverlay_1.49.24004.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.49.24004.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxGameOverlay_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.XboxGameOverlay_1.49.24004.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.YourPhone
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.19122.138.0
+PackageFullName   : Microsoft.YourPhone_1.19122.138.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.YourPhone_1.19122.138.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.YourPhone_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.YourPhone_1.19122.138.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.ZuneMusic
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.20011.10711.0
+PackageFullName   : Microsoft.ZuneMusic_10.20011.10711.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ZuneMusic_10.20011.10711.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ZuneMusic_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.ZuneMusic_10.20011.10711.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Office.OneNote
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 16001.12430.20120.0
+PackageFullName   : Microsoft.Office.OneNote_16001.12430.20120.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Office.OneNote_16001.12430.20120.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Office.OneNote_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : microsoft.windowscommunicationsapps
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 16005.12430.20136.0
+PackageFullName   : microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program
+                    Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : microsoft.windowscommunicationsapps_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.StorePurchaseApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12001.1001.5.0
+PackageFullName   : Microsoft.StorePurchaseApp_12001.1001.5.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.StorePurchaseApp_12001.1001.5.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.StorePurchaseApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.StorePurchaseApp_12001.1001.5.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsStore
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12001.1001.5.0
+PackageFullName   : Microsoft.WindowsStore_12001.1001.5.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsStore_12001.1001.5.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsStore_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsStore_12001.1001.5.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.ZuneVideo
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.20011.10711.0
+PackageFullName   : Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ZuneVideo_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.ZuneVideo_10.20011.10711.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftOfficeHub
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 18.2001.1241.0
+PackageFullName   : Microsoft.MicrosoftOfficeHub_18.2001.1241.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2001.1241.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : SpotifyAB.SpotifyMusic
+Publisher         : CN=453637B3-4E12-4CDF-B0D3-2A3C863BF6EF
+Architecture      : X86
+ResourceId        :
+Version           : 1.125.559.0
+PackageFullName   : SpotifyAB.SpotifyMusic_1.125.559.0_x86__zpdnekdrzrea0
+InstallLocation   : C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.125.559.0_x86__zpdnekdrzrea0
+IsFramework       : False
+PackageFamilyName : SpotifyAB.SpotifyMusic_zpdnekdrzrea0
+PublisherId       : zpdnekdrzrea0
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsSoundRecorder
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1912.10073.0
+PackageFullName   : Microsoft.WindowsSoundRecorder_10.1912.10073.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsSoundRecorder_10.1912.10073.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.People
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1909.3457.0
+PackageFullName   : Microsoft.People_10.1909.3457.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.People_10.1909.3457.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.People_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.People_10.1909.3457.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.BingNews
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.35.20273.0
+PackageFullName   : Microsoft.BingNews_4.35.20273.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.BingNews_4.35.20273.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.BingNews_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : AD2F1837.HPPrinterControl
+Publisher         : CN=ED346674-0FA1-4272-85CE-3187C9C86E26
+Architecture      : X64
+ResourceId        :
+Version           : 110.1.671.0
+PackageFullName   : AD2F1837.HPPrinterControl_110.1.671.0_x64__v10z8vjag6ke6
+InstallLocation   : C:\Program Files\WindowsApps\AD2F1837.HPPrinterControl_110.1.671.0_x64__v10z8vjag6ke6
+IsFramework       : False
+PackageFamilyName : AD2F1837.HPPrinterControl_v10z8vjag6ke6
+PublisherId       : v10z8vjag6ke6
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+
+PS C:\Users\SANYA\Desktop\AZURE EXAMS\Exam Material\pshell>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name              : Microsoft.AAD.BrokerPlugin
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.AAD.BrokerPlugin_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.AAD.BrokerPlugin_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.CloudExperienceHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.CloudExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.CloudExperienceHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.ShellExperienceHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.ShellExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.ShellExperienceHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : windows.immersivecontrolpanel
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.2.1000
+PackageFullName   : windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\ImmersiveControlPanel
+IsFramework       : False
+PackageFamilyName : windows.immersivecontrolpanel_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.ContentDeliveryManager
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.ContentDeliveryManager_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.7.25531.0
+PackageFullName   : Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 1.7.25531.0
+PackageFullName   : Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : InputApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : InputApp_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\InputApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : InputApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.XGpuEjectDialog
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.XGpuEjectDialog_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.XGpuEjectDialog_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.SecureAssessmentBrowser
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.SecureAssessmentBrowser_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.SecureAssessmentBrowser_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.XboxGameCallableUI
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.XboxGameCallableUI_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxGameCallableUI_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Windows.PrintDialog
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 6.2.1.0
+PackageFullName   : Windows.PrintDialog_6.2.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\PrintDialog
+IsFramework       : False
+PackageFamilyName : Windows.PrintDialog_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.SecHealthUI
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.SecHealthUI_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.SecHealthUI_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.PinningConfirmationDialog
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.PinningConfirmationDialog_1000.17763.1.0_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.PinningConfirmationDialog_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Windows.CBSPreview
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Windows.CBSPreview_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Windows.CBSPreview_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Windows.CBSPreview_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.PeopleExperienceHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.PeopleExperienceHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.PeopleExperienceHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.ParentalControls
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.ParentalControls_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\ParentalControls_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.ParentalControls_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.OOBENetworkConnectionFlow
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.OOBENetworkConnectionFlow_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.OOBENetworkConnectionFlow_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.OOBENetworkCaptivePortal
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.OOBENetworkCaptivePortal_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.OOBENetworkCaptivePortal_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.NarratorQuickStart
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.NarratorQuickStart_10.0.17763.1_neutral_neutral_8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\microsoft.windows.narratorquickstart_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.NarratorQuickStart_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.CapturePicker
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Windows.CapturePicker_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.CapturePicker_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.AssignedAccessLockApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.AssignedAccessLockApp_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.AssignedAccessLockApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.Apprep.ChxApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.1.0
+PackageFullName   : Microsoft.Windows.Apprep.ChxApp_1000.17763.1.0_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Apprep.ChxApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Win32WebViewHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.Win32WebViewHost_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Win32WebViewHost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Win32WebViewHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.PPIProjection
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.PPIProjection_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.PPIProjection_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.PPIProjection_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.AsyncTextService
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.AsyncTextService_10.0.17763.1_neutral__8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.AsyncTextService_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.AsyncTextService_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.BioEnrollment
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.BioEnrollment_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.BioEnrollment_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.BioEnrollment_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : 1527c705-839a-4832-9118-54d4Bd6a0c89
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : 1527c705-839a-4832-9118-54d4Bd6a0c89_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.FilePicker_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : 1527c705-839a-4832-9118-54d4Bd6a0c89_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : c5e2524a-ea46-4f67-841f-6a9465d9d515
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : c5e2524a-ea46-4f67-841f-6a9465d9d515_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.FileExplorer_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : c5e2524a-ea46-4f67-841f-6a9465d9d515_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : E2A4F912-2574-4A75-9BB0-0D023378592B
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : E2A4F912-2574-4A75-9BB0-0D023378592B_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AppResolverUX_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : E2A4F912-2574-4A75-9BB0-0D023378592B_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 10.0.17763.1
+PackageFullName   : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_10.0.17763.1_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.AddSuggestedFoldersToLibraryDialog_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : F46D4000-FD22-4DB4-AC8E-4E1DDDE828FE_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.AccountsControl
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.AccountsControl_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.AccountsControl_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.AccountsControl_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.CredDialogHost
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.CredDialogHost_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\microsoft.creddialoghost_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.CredDialogHost_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.ECApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.ECApp_10.0.17763.1_neutral__8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.ECApp_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ECApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.LockApp
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 10.0.17763.1
+PackageFullName   : Microsoft.LockApp_10.0.17763.1_neutral__cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.LockApp_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Wallet
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.2.18179.0
+PackageFullName   : Microsoft.Wallet_2.2.18179.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Wallet_2.2.18179.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Wallet_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.2.27328.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.2.27328.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Xbox.TCUI
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.24.10001.0
+PackageFullName   : Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Xbox.TCUI_1.24.10001.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Xbox.TCUI_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.0
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.1810.18004.0
+PackageFullName   : Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.0
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.1810.18004.0
+PackageFullName   : Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.0_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.7.27413.0
+PackageFullName   : Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.1.7
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 1.7.27413.0
+PackageFullName   : Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.1.7_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Messaging
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.1901.10241.1000
+PackageFullName   : Microsoft.Messaging_4.1901.10241.1000_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Messaging_4.1901.10241.1000_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Messaging_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Print3D
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.3.791.0
+PackageFullName   : Microsoft.Print3D_3.3.791.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Print3D_3.3.791.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Print3D_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.11906.6001.0
+PackageFullName   : Microsoft.UI.Xaml.2.1_2.11906.6001.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.1_2.11906.6001.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.11906.6001.0
+PackageFullName   : Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxSpeechToTextOverlay
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.21.13002.0
+PackageFullName   : Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxSpeechToTextOverlay_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.XboxSpeechToTextOverlay_1.21.13002.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WebMediaExtensions
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.20875.0
+PackageFullName   : Microsoft.WebMediaExtensions_1.0.20875.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WebMediaExtensions_1.0.20875.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WebMediaExtensions_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WebMediaExtensions_1.0.20875.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Advertising.Xaml
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1811.1.0
+PackageFullName   : Microsoft.Advertising.Xaml_10.1811.1.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Advertising.Xaml_10.1811.1.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Advertising.Xaml_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Advertising.Xaml
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 10.1811.1.0
+PackageFullName   : Microsoft.Advertising.Xaml_10.1811.1.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Advertising.Xaml_10.1811.1.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Advertising.Xaml_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Services.Store.Engagement
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.0.19011.0
+PackageFullName   : Microsoft.Services.Store.Engagement_10.0.19011.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Services.Store.Engagement_10.0.19011.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Services.Store.Engagement_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Services.Store.Engagement
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 10.0.19011.0
+PackageFullName   : Microsoft.Services.Store.Engagement_10.0.19011.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Services.Store.Engagement_10.0.19011.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.Services.Store.Engagement_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftEdgeDevToolsClient
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1000.17763.348.0
+PackageFullName   : Microsoft.MicrosoftEdgeDevToolsClient_1000.17763.348.0_neutral_neutral_8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftEdgeDevToolsClient_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.Windows.Cortana
+Publisher         : CN=Microsoft Windows, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        : neutral
+Version           : 1.11.6.17763
+PackageFullName   : Microsoft.Windows.Cortana_1.11.6.17763_neutral_neutral_cw5n1h2txyewy
+InstallLocation   : C:\Windows\SystemApps\Microsoft.Windows.Cortana_cw5n1h2txyewy
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Cortana_cw5n1h2txyewy
+PublisherId       : cw5n1h2txyewy
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.1.26424.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Runtime.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.1.26424.0
+PackageFullName   : Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Runtime.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.1.27427.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.1
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.1.27427.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.1_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MSPaint
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 6.1907.18017.0
+PackageFullName   : Microsoft.MSPaint_6.1907.18017.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MSPaint_6.1907.18017.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MSPaint_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Microsoft3DViewer
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 7.1908.9012.0
+PackageFullName   : Microsoft.Microsoft3DViewer_7.1908.9012.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Microsoft3DViewer_7.1908.9012.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Microsoft3DViewer_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.2.27912.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.NET.Native.Framework.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.2.27912.0
+PackageFullName   : Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.NET.Native.Framework.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.ScreenSketch
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1907.2471.0
+PackageFullName   : Microsoft.ScreenSketch_10.1907.2471.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ScreenSketch_10.1907.2471.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ScreenSketch_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.ScreenSketch_10.1907.2471.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.110.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 11.0.61135.0
+PackageFullName   : Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.110.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.110.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 11.0.61135.0
+PackageFullName   : Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.110.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.120.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 12.0.40653.0
+PackageFullName   : Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.120.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.120.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12.0.40653.0
+PackageFullName   : Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.120.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : 34791E63.CanonInkjetPrintUtility
+Publisher         : CN=41BAE105-1234-432C-A39C-1B7D1C24232B
+Architecture      : Neutral
+ResourceId        :
+Version           : 2.8.0.1
+PackageFullName   : 34791E63.CanonInkjetPrintUtility_2.8.0.1_neutral__6e5tt8cgb93ep
+InstallLocation   : C:\Program Files\WindowsApps\34791E63.CanonInkjetPrintUtility_2.8.0.1_neutral__6e5tt8cgb93ep
+IsFramework       : False
+PackageFamilyName : 34791E63.CanonInkjetPrintUtility_6e5tt8cgb93ep
+PublisherId       : 6e5tt8cgb93ep
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 2.21909.17002.0
+PackageFullName   : Microsoft.UI.Xaml.2.2_2.21909.17002.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.2_2.21909.17002.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.UI.Xaml.2.2
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.21909.17002.0
+PackageFullName   : Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.UI.Xaml.2.2_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VP9VideoExtensions
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.22681.0
+PackageFullName   : Microsoft.VP9VideoExtensions_1.0.22681.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VP9VideoExtensions_1.0.22681.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.VP9VideoExtensions_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.GetHelp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1909.22691.0
+PackageFullName   : Microsoft.GetHelp_10.1909.22691.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.GetHelp_10.1909.22691.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.GetHelp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.GetHelp_10.1909.22691.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsMaps
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 5.1909.2813.0
+PackageFullName   : Microsoft.WindowsMaps_5.1909.2813.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsMaps_5.1909.2813.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsMaps_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsMaps_5.1909.2813.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WebpImageExtension
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.22753.0
+PackageFullName   : Microsoft.WebpImageExtension_1.0.22753.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WebpImageExtension_1.0.22753.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WebpImageExtension_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.DesktopAppInstaller
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.32912.0
+PackageFullName   : Microsoft.DesktopAppInstaller_1.0.32912.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.DesktopAppInstaller_1.0.32912.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.DesktopAppInstaller_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.DesktopAppInstaller_1.0.32912.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Getstarted
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 8.2.22942.0
+PackageFullName   : Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Getstarted_8.2.22942.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Getstarted_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MixedReality.Portal
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2000.19101.1211.0
+PackageFullName   : Microsoft.MixedReality.Portal_2000.19101.1211.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MixedReality.Portal_2000.19101.1211.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MixedReality.Portal_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.MixedReality.Portal_2000.19101.1211.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxIdentityProvider
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12.58.1001.0
+PackageFullName   : Microsoft.XboxIdentityProvider_12.58.1001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxIdentityProvider_12.58.1001.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxIdentityProvider_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00.UWPDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00.UWPDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftEdge
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : Neutral
+ResourceId        :
+Version           : 44.17763.831.0
+PackageFullName   : Microsoft.MicrosoftEdge_44.17763.831.0_neutral__8wekyb3d8bbwe
+InstallLocation   : C:\Windows\SystemApps\Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftEdge_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : True
+IsPartiallyStaged : False
+SignatureKind     : System
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.VCLibs.140.00
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X86
+ResourceId        :
+Version           : 14.0.27810.0
+PackageFullName   : Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27810.0_x86__8wekyb3d8bbwe
+IsFramework       : True
+PackageFamilyName : Microsoft.VCLibs.140.00_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 48.59.13001.0
+PackageFullName   : Microsoft.XboxApp_48.59.13001.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxApp_48.59.13001.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.1.7_1.7.27413.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.1.7_1.7.25531.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsCamera
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2019.926.20.0
+PackageFullName   : Microsoft.WindowsCamera_2019.926.20.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsCamera_2019.926.20.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsCamera_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.OneConnect
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 5.1911.3171.0
+PackageFullName   : Microsoft.OneConnect_5.1911.3171.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.OneConnect_5.1911.3171.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.OneConnect_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.OneConnect_5.1911.3171.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsAlarms
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1910.3121.0
+PackageFullName   : Microsoft.WindowsAlarms_10.1910.3121.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_10.1910.3121.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsAlarms_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsAlarms_10.1910.3121.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsCalculator
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1910.0.0
+PackageFullName   : Microsoft.WindowsCalculator_10.1910.0.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsCalculator_10.1910.0.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsCalculator_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsCalculator_10.1910.0.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftSolitaireCollection
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.5.12061.0
+PackageFullName   : Microsoft.MicrosoftSolitaireCollection_4.5.12061.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftSolitaireCollection_4.5.12061.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxGamingOverlay
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.36.6003.0
+PackageFullName   : Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_3.36.6003.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxGamingOverlay_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.XboxGamingOverlay_3.36.6003.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsFeedbackHub
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.1907.3152.0
+PackageFullName   : Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsFeedbackHub_1.1907.3152.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsFeedbackHub_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.0_2.1810.18004.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.SkypeApp
+Publisher         : CN=Skype Software Sarl, O=Microsoft Corporation, L=Luxembourg, S=Luxembourg, C=LU
+Architecture      : X64
+ResourceId        :
+Version           : 14.55.131.0
+PackageFullName   : Microsoft.SkypeApp_14.55.131.0_x64__kzf8qxf38zg5c
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.SkypeApp_14.55.131.0_x64__kzf8qxf38zg5c
+IsFramework       : False
+PackageFamilyName : Microsoft.SkypeApp_kzf8qxf38zg5c
+PublisherId       : kzf8qxf38zg5c
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.SkypeApp_14.55.131.0_neutral_split.scale-100_kzf8qxf38zg5c}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.BingWeather
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.34.13393.0
+PackageFullName   : Microsoft.BingWeather_4.34.13393.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.BingWeather_4.34.13393.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.BingWeather_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Windows.Photos
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2019.19081.22010.0
+PackageFullName   : Microsoft.Windows.Photos_2019.19081.22010.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2019.19081.22010.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Windows.Photos_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.Photos.MediaEngineDLC_1.0.0.0_x64__8wekyb3d8bbwe,
+                    Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftPowerBIDesktop
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 2.76.5682.0
+PackageFullName   : Microsoft.MicrosoftPowerBIDesktop_2.76.5682.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftPowerBIDesktop_2.76.5682.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftPowerBIDesktop_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.120.00.UWPDesktop_12.0.40653.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.110.00.UWPDesktop_11.0.61135.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftStickyNotes
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 3.7.106.0
+PackageFullName   : Microsoft.MicrosoftStickyNotes_3.7.106.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftStickyNotes_3.7.106.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.MicrosoftStickyNotes_3.7.106.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.HEIFImageExtension
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.0.23292.0
+PackageFullName   : Microsoft.HEIFImageExtension_1.0.23292.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.HEIFImageExtension_1.0.23292.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.HEIFImageExtension_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.XboxGameOverlay
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.49.24004.0
+PackageFullName   : Microsoft.XboxGameOverlay_1.49.24004.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.49.24004.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.XboxGameOverlay_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.XboxGameOverlay_1.49.24004.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.YourPhone
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 1.19122.138.0
+PackageFullName   : Microsoft.YourPhone_1.19122.138.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.YourPhone_1.19122.138.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.YourPhone_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00.UWPDesktop_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.YourPhone_1.19122.138.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.ZuneMusic
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.20011.10711.0
+PackageFullName   : Microsoft.ZuneMusic_10.20011.10711.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ZuneMusic_10.20011.10711.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ZuneMusic_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.ZuneMusic_10.20011.10711.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.Office.OneNote
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 16001.12430.20120.0
+PackageFullName   : Microsoft.Office.OneNote_16001.12430.20120.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.Office.OneNote_16001.12430.20120.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.Office.OneNote_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : microsoft.windowscommunicationsapps
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 16005.12430.20136.0
+PackageFullName   : microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program
+                    Files\WindowsApps\microsoft.windowscommunicationsapps_16005.12430.20136.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : microsoft.windowscommunicationsapps_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.StorePurchaseApp
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12001.1001.5.0
+PackageFullName   : Microsoft.StorePurchaseApp_12001.1001.5.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.StorePurchaseApp_12001.1001.5.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.StorePurchaseApp_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.StorePurchaseApp_12001.1001.5.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsStore
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 12001.1001.5.0
+PackageFullName   : Microsoft.WindowsStore_12001.1001.5.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsStore_12001.1001.5.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsStore_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.WindowsStore_12001.1001.5.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.ZuneVideo
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.20011.10711.0
+PackageFullName   : Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.ZuneVideo_10.20011.10711.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.ZuneVideo_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.ZuneVideo_10.20011.10711.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.MicrosoftOfficeHub
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 18.2001.1241.0
+PackageFullName   : Microsoft.MicrosoftOfficeHub_18.2001.1241.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.MicrosoftOfficeHub_18.2001.1241.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.MicrosoftOfficeHub_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : SpotifyAB.SpotifyMusic
+Publisher         : CN=453637B3-4E12-4CDF-B0D3-2A3C863BF6EF
+Architecture      : X86
+ResourceId        :
+Version           : 1.125.559.0
+PackageFullName   : SpotifyAB.SpotifyMusic_1.125.559.0_x86__zpdnekdrzrea0
+InstallLocation   : C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.125.559.0_x86__zpdnekdrzrea0
+IsFramework       : False
+PackageFamilyName : SpotifyAB.SpotifyMusic_zpdnekdrzrea0
+PublisherId       : zpdnekdrzrea0
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.WindowsSoundRecorder
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1912.10073.0
+PackageFullName   : Microsoft.WindowsSoundRecorder_10.1912.10073.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.WindowsSoundRecorder_10.1912.10073.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.WindowsSoundRecorder_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.2_2.21909.17002.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.People
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 10.1909.3457.0
+PackageFullName   : Microsoft.People_10.1909.3457.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.People_10.1909.3457.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.People_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe,
+                    Microsoft.People_10.1909.3457.0_neutral_split.scale-100_8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : Microsoft.BingNews
+Publisher         : CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US
+Architecture      : X64
+ResourceId        :
+Version           : 4.35.20273.0
+PackageFullName   : Microsoft.BingNews_4.35.20273.0_x64__8wekyb3d8bbwe
+InstallLocation   : C:\Program Files\WindowsApps\Microsoft.BingNews_4.35.20273.0_x64__8wekyb3d8bbwe
+IsFramework       : False
+PackageFamilyName : Microsoft.BingNews_8wekyb3d8bbwe
+PublisherId       : 8wekyb3d8bbwe
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.UI.Xaml.2.1_2.11906.6001.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Framework.2.2_2.2.27912.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe…}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+Name              : AD2F1837.HPPrinterControl
+Publisher         : CN=ED346674-0FA1-4272-85CE-3187C9C86E26
+Architecture      : X64
+ResourceId        :
+Version           : 110.1.671.0
+PackageFullName   : AD2F1837.HPPrinterControl_110.1.671.0_x64__v10z8vjag6ke6
+InstallLocation   : C:\Program Files\WindowsApps\AD2F1837.HPPrinterControl_110.1.671.0_x64__v10z8vjag6ke6
+IsFramework       : False
+PackageFamilyName : AD2F1837.HPPrinterControl_v10z8vjag6ke6
+PublisherId       : v10z8vjag6ke6
+IsResourcePackage : False
+IsBundle          : False
+IsDevelopmentMode : False
+NonRemovable      : False
+Dependencies      : {Microsoft.NET.Native.Framework.2.1_2.1.27427.0_x64__8wekyb3d8bbwe,
+                    Microsoft.NET.Native.Runtime.2.1_2.1.26424.0_x64__8wekyb3d8bbwe,
+                    Microsoft.VCLibs.140.00_14.0.27810.0_x64__8wekyb3d8bbwe}
+IsPartiallyStaged : False
+SignatureKind     : Store
+Status            : Ok
+
+
+PS C:\Users\SANYA\Desktop\AZURE EXAMS\Exam Material\pshell>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

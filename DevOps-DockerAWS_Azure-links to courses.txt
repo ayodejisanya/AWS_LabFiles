@@ -1,0 +1,96 @@
+
+LINKs
+
+AZURE REVISION ON YOUTUBE  35 HOURS
+microsft azure academy
+https://www.youtube.com/channel/UC-MXgaFhsYU8PkqgKBdnusQ
+
+AZURE IN 8 HOURS
+https://www.bing.com/videos/search?q=az301+youtube&docid=608052439711483141&mid=7B848AF7D961ADEC5CFA7B848AF7D961ADEC5CFA&view=detail&FORM=VIRE
+
+
+
+ANSIBLE
+https://www.bing.com/videos/search?q=youtube+ansible+video&docid=607992473380783256&mid=C0C7787EBBEC268FB443C0C7787EBBEC268FB443&view=detail&FORM=VIRE&ajf=10
+JENKINS
+https://www.bing.com/videos/search?q=youtube+jenkins+video&docid=608011044842570444&mid=880D6B03AC1BADA5B4B5880D6B03AC1BADA5B4B5&view=detail&FORM=VIRE
+MICROSFT VISUAL STUDION TEAM FOUNDATION
+https://www.microsoft.com/en-us/download/confirmation.aspx?id=48260
+MICROSOFT CONTINUS INTERGRATION AND CONTINUS DELIVERY AND CONTINUS DEPLOYMENT
+https://docs.microsoft.com/en-us/aspnet/aspnet/overview/developing-apps-with-windows-azure/building-real-world-cloud-apps-with-windows-azure/continuous-integration-and-continuous-delivery
+ASYNCRONOUS SERVICE BUS
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/messaging
+DATASTORE FOR MICROSFT MESSAGE SERVICE
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/data-store-overview
+MICROSOFT COMPUTRE FOR SMS - SERVICE BUS
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
+service bus architecture
+https://docs.microsoft.com/en-us/azure/architecture/guide/
+service bus document
+https://docs.microsoft.com/en-us/azure/service-bus-messaging/
+micrsoft power apps
+https://docs.microsoft.com/en-us/powerapps/powerapps-overview
+AWS PROFESSIONAL COURSE
+https://www.bing.com/videos/search?q=youtube+aws&&view=detail&mid=C7ADCEBA739BB3F92726C7ADCEBA739BB3F92726&&FORM=VDRVRV
+AWS ASSOCIATE COURSE
+https://www.bing.com/videos/search?q=youtube+aws&docid=608032240470851617&mid=FB0943858638D700F409FB0943858638D700F409&view=detail&FORM=VIRE
+
+
+ife and imisi cristian training
+https://www.youtube.com/channel/UCEbM1vIWVubIANRR54YuS0g
+
+GITHUB
+
+https://github.com/
+https://github.com/ayosanya/gamartecrepo
+https://github.com/bolataylorCap/adireApp
+
+ Practical Linux and Windows-based systems administration skills in a Cloud or Virtualized environment.
+· Experience building sophisticated and highly automated infrastructure.
+· Prior success in automating a real-world production environment.
+· Experience with Chef, Puppet, Salt, or Ansible in production environments with many nodes.
+· Familiarity with CloudFormation and JSON.
+· Scripting skills, i.e., Powershell, Python, Bash, Ruby, Perl, etc.
+· Knowledge of IP networking, VPN's, DNS, load balancing and firewalling.
+· Familiarity with any monitoring tools like Nagios, Incinga, SiteScope, etc.
+· Experience with revision control source code repositories (Git, SVN, Mercurial, Perforce).
+· Management of continuous integration servers like Jenkins, Bamboo and TeamCity.
+· Experience with seamless/automated build scripts used for release management across all environments.
+· Experience with automated testing tools (i.e. Selenium, JMeter).
+· Understanding and experience with code deployment (tagging).
+· Active open source contributor.
+· Understanding of and experience with Service-Oriented Architecture (SOA and REST).
+· Hands-on technical practitioner and individual contributor.
+· Strong verbal and written communication skills, with the ability to work effectively across internal and external organizations.
+· Ability to be mobile and travel for projects.
+· Demonstrated ability to think strategically about business, product, and technical challenges
+
+Site Reliability Engineer / DevOps Engineer (Java Docker AWS). World-leading investment management firm is seeking an 
+accomplished Site Reliability Engineer to take ownership of delivering automated solutions across the entire SDLC. 
+You could work with up to the minute technologies and make a direct, business-wide impact.
+The organisation is one of the largest asset managers in Europe and a major global investor, with assets under 
+management currently standing at £1.1tn.
+As a Site Reliability Engineer, you’ll manage CI/CD environments, using open source technologies such as Jenkins and SonarQube, 
+working closely with Infrastructure, Security and Development teams to promote the adoption of automation and support a streamlined 
+set of tools and processes. 
+From handling upgrades, plugins and control permissions to optimising builds and managing application development environments 
+– you’re work will be impactful, technical and diverse. 
+Requirements: 
+You have strong Java coding abilities, ideally from software development background
+You have a strong understanding of SDLC from developer’s perspective
+You have containerisation experience using Docker
+You have good working knowledge of the latest DevOps, CI/CD tooling and practices (Jenkins, Maven, Nexus, SonarQube)
+You have good knowledge of Linux and networking fundamentals and are familiar with AWS 
+As a Site Reliability Engineer you will earn a highly competitive salary (to £80k). Ability, performance and attitude will 
+be rewarded with a healthy benefits package, including generous pension contributions, 
+life assurance, a large holiday allowance, medical insurance, discounts and more. You’ll be based at offices in the heart of London. 
+
+
+https://github.com/bolataylorCap/adireApp
+https://github.com/bolataylorCap/adireApp
+
+https://github.com/bolataylorCap/adireApp.git
+
+Q:\Jenkins\adireApp-master.zip\adireApp-master\src\main\java\com\adire\shopping\AdireApp.Java
+
+https://github.com/ayosanya/gamartecrepo.git

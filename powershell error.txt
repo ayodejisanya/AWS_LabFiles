@@ -1,0 +1,140 @@
+PS C:\Program Files\PowerShell\6> Install-Module -Name Az -AllowClobber -Scope CurrentUser
+WARNING: Unable to resolve package source 'https://www.powershellgallery.com/api/v2'.
+PackageManagement\Install-Package : No match was found for the specified search criteria and module name 'Az'. Try Get-PSRepository to see all available registered module repositories.
+At C:\program files\powershell\6\Modules\PowerShellGet\PSModule.psm1:9508 char:21
++ ...          $null = PackageManagement\Install-Package @PSBoundParameters
++                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++ CategoryInfo          : ObjectNotFound: (Microsoft.PowerShel\u2026lets.InstallPackage:InstallPackage) [Install-Package], Exception
++ FullyQualifiedErrorId : NoMatchFoundForCriteria,Microsoft.PowerShell.PackageManagement.Cmdlets.InstallPackage
+
+
+PowerShell 6.2.4
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+https://aka.ms/pscore6-docs
+Type 'help' to get help.
+
+PS C:\Program Files\PowerShell\6> az
+az : The term 'az' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ az
++ ~~
++ CategoryInfo          : ObjectNotFound: (az:String) [], CommandNotFoundException
++ FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Program Files\PowerShell\6> ver
+ver : The term 'ver' is not recognized as the name of a cmdlet, function, script file, or operable program.
+Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ ver
++ ~~~
++ CategoryInfo          : ObjectNotFound: (ver:String) [], CommandNotFoundException
++ FullyQualifiedErrorId : CommandNotFoundException
+
+PS C:\Program Files\PowerShell\6> Install-Module -Name Az -AllowClobber -Scope SANYA
+Install-Module : Cannot validate argument on parameter 'Scope'. The argument "SANYA" does not belong to the set "CurrentUser,AllUsers" specified by the ValidateSet attribute. Supply an argument that is in the set and then try the command again.
+At line:1 char:46
++ Install-Module -Name Az -AllowClobber -Scope SANYA
++                                              ~~~~~
++ CategoryInfo          : InvalidData: (:) [Install-Module], ParameterBindingValidationException
++ FullyQualifiedErrorId : ParameterArgumentValidationError,Install-Module
+
+PS C:\Program Files\PowerShell\6> Install-Module -Name Az -AllowClobber -Scope sanya
+Install-Module : Cannot validate argument on parameter 'Scope'. The argument "sanya" does not belong to the set "CurrentUser,AllUsers" specified by the ValidateSet attribute. Supply an argument that is in the set and then try the command again.
+At line:1 char:46
++ Install-Module -Name Az -AllowClobber -Scope sanya
++                                              ~~~~~
++ CategoryInfo          : InvalidData: (:) [Install-Module], ParameterBindingValidationException
++ FullyQualifiedErrorId : ParameterArgumentValidationError,Install-Module
+
+PS C:\Program Files\PowerShell\6> Install-Module -Name Az -AllowClobber -Scope CurrentUser
+WARNING: Unable to resolve package source 'https://www.powershellgallery.com/api/v2'.
+PackageManagement\Install-Package : No match was found for the specified search criteria and module name 'Az'. Try Get-PSRepository to see all available registered module repositories.
+At C:\program files\powershell\6\Modules\PowerShellGet\PSModule.psm1:9508 char:21
++ ...          $null = PackageManagement\Install-Package @PSBoundParameters
++                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++ CategoryInfo          : ObjectNotFound: (Microsoft.PowerShel\u2026lets.InstallPackage:InstallPackage) [Install-Package], Exception
++ FullyQualifiedErrorId : NoMatchFoundForCriteria,Microsoft.PowerShell.PackageManagement.Cmdlets.InstallPackage
+
+PS C:\Program Files\PowerShell\6> Get-PSRepository
+
+Name                      InstallationPolicy   SourceLocation
+----                      ------------------   --------------
+PSGallery                 Untrusted            https://www.powershellgallery.com/api/v2
+
+PS C:\Program Files\PowerShell\6> Set-PSRepository
+
+cmdlet Set-PSRepository at command pipeline position 1
+Supply values for the following parameters:
+Name: az
+Set-PSRepository : No repository with the name 'az' was found.
+At line:1 char:1
++ Set-PSRepository
++ ~~~~~~~~~~~~~~~~
++ CategoryInfo          : InvalidOperation: (az:String) [Set-PSRepository], InvalidOperationException
++ FullyQualifiedErrorId : RepositoryNotFound,Set-PSRepository
+
+PS C:\Program Files\PowerShell\6> Set-PSRepository
+
+cmdlet Set-PSRepository at command pipeline position 1
+Supply values for the following parameters:
+Name: 1
+Set-PSRepository : No repository with the name '1' was found.
+At line:1 char:1
++ Set-PSRepository
++ ~~~~~~~~~~~~~~~~
++ CategoryInfo          : InvalidOperation: (1:String) [Set-PSRepository], InvalidOperationException
++ FullyQualifiedErrorId : RepositoryNotFound,Set-PSRepository
+
+PS C:\Program Files\PowerShell\6> Set-PSRepository trusted
+Set-PSRepository : No repository with the name 'trusted' was found.
+At line:1 char:1
++ Set-PSRepository trusted
++ ~~~~~~~~~~~~~~~~~~~~~~~~
++ CategoryInfo          : InvalidOperation: (trusted:String) [Set-PSRepository], InvalidOperationException
++ FullyQualifiedErrorId : RepositoryNotFound,Set-PSRepository
+
+PS C:\Program Files\PowerShell\6> Set-PSRepository PSGallery
+PS C:\Program Files\PowerShell\6> Get-PSRepository
+
+Name                      InstallationPolicy   SourceLocation
+----                      ------------------   --------------
+PSGallery                 Untrusted            https://www.powershellgallery.com/api/v2
+
+PS C:\Program Files\PowerShell\6> Set-PSRepository PSGallery trusted
+Set-PSRepository : Cannot find the path 'trusted' because it does not exist.
+At line:1 char:1
++ Set-PSRepository PSGallery trusted
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++ CategoryInfo          : InvalidArgument: (trusted:String) [Set-PSRepository], ArgumentException
++ FullyQualifiedErrorId : PathNotFound,Set-PSRepository
+
+PS C:\Program Files\PowerShell\6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+
+
+ADIRE IP CONFIGURATION
+
+Wireless LAN adapter Wi-Fi: FOR SKY8D417 AT HOME
+
+   Connection-specific DNS Suffix  . : Home
+   IPv4 Address. . . . . . . . . . . : 192.168.0.56
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
